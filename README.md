@@ -2,9 +2,9 @@
 Zustand is a fast, small, and scalable state-management library for React apps. It provides a simple API to manage global state without boilerplate or reducers (like in Redux).
 
 In this project, Zustand is used to:
--Store and manage the list of todos
--Add, toggle, and delete todos from a centralized state
--Keep state logic separated and clean using custom hooks
+- Store and manage the list of todos
+- Add, toggle, and delete todos from a centralized state
+- Keep state logic separated and clean using custom hooks
 
 This is a simple and elegant Todo App built using:
 
